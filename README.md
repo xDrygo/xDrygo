@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="center">📊 Github Stats:</h2>
+<h2 align="center">📊 • Github Stats:</h2>
 
 ###
 
@@ -69,5 +69,13 @@
     <img src="https://img.shields.io/static/v1?message=/eldrygo&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="" alt="twitch logo"  />
   </a>
 </div>
+
+<h2 align="center">🐍 • Contrubution Snake:</h2>
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xDrygo/xDrygo/output/github-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xDrygo/xDrygo/output/github-snake.svg" />
+   <img alt="github-snake" src="https://raw.githubusercontent.com/xDrygo/xDrygo/output/github-snake.svg" />
+ </picture>
 
 ###
