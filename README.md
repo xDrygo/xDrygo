@@ -16,6 +16,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -25,9 +27,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
 </div>
 
 ###
@@ -37,38 +45,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xdrygo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdrygo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=xdrygo&locale=en&mode=weekly&theme=jolly&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xdrygo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=xdrygo&locale=en&mode=weekly&theme=jolly&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdrygo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="125" alt="languages graph"  />
 </div>
-
-###
-
-<h2 align="center">💾 • Proyects:</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/xDrygo/xDrygo/blob/main/assets/xwhitelist.png?raw=true"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">xWhitelist is a powerful and flexible system designed to enhance your server with advanced whitelist management features.<br>You can find xWhitelist repository and can find the plugin on Spigot and Modrinth.</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/xDrygo/xDrygo/blob/main/assets/xteams.png?raw=true"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center".>xTeams is a powerful and flexible system designed to enhance your server with advanced team management features.<br>You can find xTeams repository and can find the plugin on Spigot and Modrinth.</p>
 
 ###
 
