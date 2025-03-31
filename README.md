@@ -70,7 +70,7 @@
   </a>
 </div>
 
-<h2 align="center">🐍 • Contrubution Snake:</h2>
+<h2 align="center">🐍 • Contribution Snake:</h2>
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xDrygo/xDrygo/output/github-snake-dark.svg" />
