@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🗺️ • I'm from Mexico<br>📖 • I'm learning Java Language<br>🔧 • I'm working on Sector X Minecraft series.</p>
+<p align="center">🗺️ • I'm from Mexico<br>📖 • I'm learning Java and JS<br>🔧 • I'm working on Speedrun Boss.</p>
 
 ###
 
