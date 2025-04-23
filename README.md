@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🗺️ • I'm from Mexico<br>📖 • I'm learning Java and JS<br>🔧 • I'm working on Speedrun Boss.</p>
+<p align="center">🗺️ • I'm from Mexico<br>📖 • I'm learning Java and JS<br>🔧 • I'm working on EL TEATRO.</p>
 
 ###
 
