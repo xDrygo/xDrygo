@@ -15,7 +15,7 @@
   ###
   
   <h2>🚀 • drygo.dev Site:</h2>
-  <a" href="https://drygo-dev.vercel.app/">https://drygo-dev.vercel.app</a>
+  <a" href="https://drygo-dev.vercel.app/" target="_blank" rel="noopener">https://drygo-dev.vercel.app</a>
   
   <h2>🐍 • Contribution Snake:</h2>
   
