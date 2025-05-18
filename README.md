@@ -1,7 +1,7 @@
 <body>
   <div align="center">
   <div>
-    <img height="200" src="https://github.com/xDrygo/xDrygo/blob/main/assets/profile.png?raw=true"  />
+    <img height="200" src="https://avatars.githubusercontent.com/u/83435456?v=4"  />
   </div>
   
   ###
