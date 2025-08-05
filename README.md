@@ -10,12 +10,15 @@
   
   ###
   
-  <p>🗺️ • I'm from Mexico<br>📖 • I'm learning JS and some Web stuff.<br>🔧 • I'm working on EL TEATRO.</p>
+  <p>🗺️ • I'm from Mexico<br>📖 • I'm learning JS and some Web stuff.<br>🔧 • I'm working on Turtle Club.</p>
   
   ###
   
   <h2>🚀 • drygo.dev Site:</h2>
-  <a" href="https://drygo-dev.vercel.app" rel="noopener">https://drygo-dev.vercel.app</a>
+  <a" href="https://www.drygo.dev" rel="noopener">https://www.drygo.dev</a>
+  
+  <h2>🐢 • Turtle Club:</h2>
+  <a" href="https://turtleclub.drygo.dev" rel="noopener">https://turtleclub.drygo.dev</a>
   
   <h2>🐍 • Contribution Snake:</h2>
   
